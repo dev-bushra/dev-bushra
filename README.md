@@ -8,4 +8,4 @@
 - 🏌️ Fun fact about CSS3: nobody uses border-image
 
 - 📫 You can reach me at: bshragtv@gmail.com
-- 🔗 My Website: http://www.dev-bushra.magnifico.ae/
+- 🔗 My Website: https://dev-bushra.github.io/dev-bushra-portfolio/
