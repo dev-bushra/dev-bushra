@@ -1,6 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="banner-img.png" height="175px"/></a>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hi ther.. I'm Bushra</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>  
+<br/>
+<h1>Hi ther.. I'm Bushra</h1>
 
 <h3 align="left">I'm a success-driven, determined UX/UI Designer & Frontend developer <br>I have experience in HTML5 ,CSS3 & JavaScript to build accessible component-based web pages and systems. <br>I'm a passionate person willing to learn more technologies to become a better developer than i was yesterday. So determined and result orietend. <br> <br>"I CAN DO IT BY ALL MEANS, NO EXCUSE NOT TO" ⚡</h3>
 
