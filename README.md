@@ -1,7 +1,7 @@
 <!-- Main Image -->
-<a href="#"><img width="100%" height="auto" src="banner-img.png" height="175px"/></a>
+<a href="#"><img src="banner-img.png" width="100%" height="175px"/></a>
 <!-- Hello -->
-<span align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="14px"></span>  
+<span align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"></span>  
 <br/>
 <h1>Hi ther.. I'm Bushra</h1>
 
