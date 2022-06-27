@@ -19,6 +19,7 @@ I'm a junior javaScript developer, who worked with trending technologies and too
 - ⚡ **SDLC:** Agile, Scrum, Waterfall.
 
 ## ❤ Languages and Tools:
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" />
@@ -33,13 +34,19 @@ I'm a junior javaScript developer, who worked with trending technologies and too
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48px" />
+</div>
 
 ## 📫 Connect with me:
+<a href="https://dev-bushra.github.io/bushra-portfolio/"><img src="https://raw.githubusercontent.com/dev-bushra/bushra-portfolio/main/images/favicon.png" /></a>
 <a href="https://www.linkedin.com/in/dev-bushra/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48px" /></a>
-<i class="fa-brands fa-instagram"></i>
+<a href="https://www.instagram.com/dev.bushra/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48px" /></a>
 <a href="https://twitter.com/Bushrattv"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48px" /></a>
           
 
 ## 📊 Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=dev-bushra"></a>
-<a href="https://github.com/dev-bushra?tab=followers"><img src="https://img.shields.io/github/followers/dev-bushra?label=Followers&style=social" alt="GitHub Badge"</a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+          <img src="https://komarev.com/ghpvc/?username=dev-bushra">
+</a>
+<a href="https://github.com/dev-bushra?tab=followers">
+          <img src="https://img.shields.io/github/followers/dev-bushra?label=Followers&style=social" alt="GitHub Badge" />
+</a>
