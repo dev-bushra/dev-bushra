@@ -1,5 +1,5 @@
 <!-- Main Image -->
-<a href="#"><img src="banner-img.png" width="100%" height="175px" /></a>
+<a href="#"><img src="banner.png" width="50%" /></a>
 
 <!-- Hello -->
 <h1>Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"> I'm Bushra</h1>
