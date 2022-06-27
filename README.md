@@ -37,10 +37,12 @@ I'm a junior javaScript developer, who worked with trending technologies and too
 </div>
 
 ## 📫 Connect with me:
-<a href="https://dev-bushra.github.io/bushra-portfolio/"><img src="https://raw.githubusercontent.com/dev-bushra/bushra-portfolio/main/images/favicon.png" /></a>
-<a href="https://www.linkedin.com/in/dev-bushra/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48px" /></a>
-<a href="https://www.instagram.com/dev.bushra/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48px" /></a>
-<a href="https://twitter.com/Bushrattv"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48px" /></a>
+<div style="display: flex;padding: 5px">
+<a href="https://dev-bushra.github.io/bushra-portfolio/"><img src="https://raw.githubusercontent.com/dev-bushra/bushra-portfolio/main/images/favicon.png" width="25px"  /></a>
+<a href="https://www.linkedin.com/in/dev-bushra/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" /></a>
+<a href="https://www.instagram.com/dev.bushra/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25px" /></a>
+<a href="https://twitter.com/Bushrattv"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="25px" /></a>
+</div>
           
 
 ## 📊 Views and Followers
