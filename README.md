@@ -1,6 +1,7 @@
+<!-- Main Image -->
 <a href="#"><img width="100%" height="auto" src="banner-img.png" height="175px"/></a>
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>  
+<!-- Hello -->
+<span align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>  
 <br/>
 <h1>Hi ther.. I'm Bushra</h1>
 
