@@ -3,7 +3,7 @@
 
 <!-- Hello -->
 <h1>Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"> I'm Bushra</h1>
-I'm a junior JavaScript developer, who worked with trending technologies and tools of JavaScript. Developed, and deployed Web and mobile application systems through the entire Software Development Life Cycle (SDLC), using MERN stack. Understanding and implementing concepts like Object-Oriented Programming, Functional Programming, Design Patterns, RESTful Services, Agile Methodologies, and UI/UX Design. <br>
+I'm a senior JavaScript developer, who worked with trending technologies and tools of JavaScript. Developed, and deployed Web and mobile application systems through the entire Software Development Life Cycle (SDLC), using MERN stack. Understanding and implementing concepts like Object-Oriented Programming, Functional Programming, Design Patterns, RESTful Services, Agile Methodologies, and UI/UX Design. <br>
 
 ## 🙋‍♂️ About Me
 - 🚀 **Skills:** Web Development, Requirement Analysis, RESTful APIs, Agile Methodologies, Design Patterns, Troubleshooting. 
